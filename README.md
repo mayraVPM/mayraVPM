@@ -53,7 +53,9 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314q5h52gdlvycywd7fr4hixxfly&count=1&width=800)
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=314q5h52gdlvycywd7fr4hixxfly&count=3&width=300" height="150" alt= "text"  />
+</div>
 
 ###
 
