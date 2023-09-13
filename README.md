@@ -52,11 +52,8 @@ You can click the Preview link to take a look at your changes.
 <!-- ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg) -->
 
 ###
-<div>![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314q5h52gdlvycywd7fr4hixxfly&count=1&width=800)</div>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314q5h52gdlvycywd7fr4hixxfly&count=3&width=800)
-
-![Alt text center](https://spotify-recently-played-readme.vercel.app/api?user=314q5h52gdlvycywd7fr4hixxfly&count=3&width=800)
 
 ###
 
